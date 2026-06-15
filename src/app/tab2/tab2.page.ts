@@ -56,7 +56,7 @@ constructor(
   lancamento: '20/01/2008',
   episodios: '62 episódios',
   classificacao: 10,
-  cartaz: 'https://www.themoviedb.org/tv/1396-breaking-bad?language=pt-BR',
+  cartaz: 'https://media.themoviedb.org/t/p/w300_and_h450_face/hGwm9Cj3CdbJIqQWNExQqiYmCd4.jpg',
   generos: ['Drama', 'Crime', 'Suspense'],
   pagina: '/breaking-bad',
   favorito: false
@@ -66,7 +66,7 @@ constructor(
   lancamento: '15/07/2016',
   episodios: '34 episódios',
   classificacao: 9,
-  cartaz: 'https://www.themoviedb.org/tv/66732-stranger-things?language=pt-BR',
+  cartaz: 'https://media.themoviedb.org/t/p/w300_and_h450_face/twfKp60THrcOIep9sjHODOOfO8d.jpg',
   generos: ['Ficção Científica', 'Drama', 'Mistério'],
   pagina: '/stranger-things',
   favorito: false
@@ -76,7 +76,7 @@ constructor(
   lancamento: '15/01/2023',
   episodios: '9 episódios',
   classificacao: 9,
-  cartaz: 'https://www.themoviedb.org/tv/100088-the-last-of-us?language=pt-BR',
+  cartaz: 'https://media.themoviedb.org/t/p/w300_and_h450_face/el1KQzwdIm17I3A6cYPfsVIWhfX.jpg',
   generos: ['Drama', 'Ação', 'Aventura'],
   pagina: '/the-last-of-us',
   favorito: false
@@ -86,7 +86,7 @@ constructor(
   lancamento: '01/12/2017',
   episodios: '26 episódios',
   classificacao: 8,
-  cartaz: 'https://www.themoviedb.org/tv/70523-dark?language=pt-BR',
+  cartaz: 'https://media.themoviedb.org/t/p/w300_and_h450_face/1DLjjvSWMYo17B7wuz6YikB96hH.jpg',
   generos: ['Ficção Científica', 'Mistério', 'Drama'],
   pagina: '/dark',
   favorito: false
@@ -96,7 +96,7 @@ constructor(
   lancamento: '26/07/2019',
   episodios: '32 episódios',
   classificacao: 8,
-  cartaz: 'https://www.themoviedb.org/tv/76479-the-boys?language=pt-BR',
+  cartaz: 'https://media.themoviedb.org/t/p/w300_and_h450_face/in1R2dDc421JxsoRWaIIAqVI2KE.jpg',
   generos: ['Ação', 'Comédia', 'Ficção Científica'],
   pagina: '/the-boys',
   favorito: false

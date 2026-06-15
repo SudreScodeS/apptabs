@@ -55,7 +55,7 @@ constructor(
   nome: 'Robert Downey Jr.',
   idade: 61,
   nota: 10,
-  foto: 'https://www.themoviedb.org/person/3223-robert-downey-jr',
+  foto: 'https://media.themoviedb.org/t/p/w300_and_h450_face/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg',
   generos: ['Ação', 'Ficção Científica', 'Drama'],
   pagina: '/robert-downey-jr',
   favorito: false
@@ -64,7 +64,7 @@ constructor(
   nome: 'Tom Holland',
   idade: 30,
   nota: 9,
-  foto: 'https://www.themoviedb.org/person/1136406-tom-holland',
+  foto: 'https://media.themoviedb.org/t/p/w300_and_h450_face/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg',
   generos: ['Ação', 'Aventura', 'Drama'],
   pagina: '/tom-holland',
   favorito: false
@@ -73,7 +73,7 @@ constructor(
   nome: 'Scarlett Johansson',
   idade: 41,
   nota: 9,
-  foto: 'https://www.themoviedb.org/person/1245-scarlett-johansson',
+  foto: 'https://media.themoviedb.org/t/p/w300_and_h450_face/xCr7ahGmwxQEjYNDXR09QfXWgEz.jpg',
   generos: ['Ação', 'Drama', 'Ficção Científica'],
   pagina: '/scarlett-johansson',
   favorito: false
@@ -82,7 +82,7 @@ constructor(
   nome: 'Keanu Reeves',
   idade: 62,
   nota: 10,
-  foto: 'https://www.themoviedb.org/person/6384-keanu-reeves',
+  foto: 'https://media.themoviedb.org/t/p/w300_and_h450_face/kEoUZKEG7dzbCESDjd0CKAN1r0n.jpg',
   generos: ['Ação', 'Ficção Científica', 'Suspense'],
   pagina: '/keanu-reeves',
   favorito: false
@@ -91,7 +91,7 @@ constructor(
   nome: 'Margot Robbie',
   idade: 36,
   nota: 8,
-  foto: 'https://www.themoviedb.org/person/234352-margot-robbie',
+  foto: 'https://media.themoviedb.org/t/p/w300_and_h450_face/euDPyqLnuwaWMHajcU3oZ9uZezR.jpg',
   generos: ['Comédia', 'Drama', 'Ação'],
   pagina: '/margot-robbie',
   favorito: false

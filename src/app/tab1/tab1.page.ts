@@ -56,7 +56,7 @@ export class Tab1Page {
       lancamento: '15/04/2021',
       duracao: '1h50m',
       classificacao: 9,
-      cartaz: 'https://www.themoviedb.org/movie/460465-mortal-kombat?language=pt-BR#',
+      cartaz: 'https://media.themoviedb.org/t/p/w300_and_h450_face/4nW5X9iBrMlHMDcTsEOQWXKu3TZ.jpg',
       generos: ['Ação', 'Fantasia', 'Aventura'],
       pagina: '/mortal-kombat',
       favorito: false
@@ -66,7 +66,7 @@ export class Tab1Page {
       lancamento: '25/04/2019',
       duracao: '3h01m',
       classificacao: 6,
-      cartaz: 'https://www.themoviedb.org/movie/299534-avengers-endgame?language=pt-BR#',
+      cartaz: 'https://media.themoviedb.org/t/p/w300_and_h450_face/9fRX8UKlIW7Lb9GqNsJVakWWFCi.jpg',
       generos: ['Ação', 'Ficção cientifica', 'Aventura'],
       pagina: '/avengers',
       favorito: false
