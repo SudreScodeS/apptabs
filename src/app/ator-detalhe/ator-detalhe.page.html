@@ -1,0 +1,23 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>ator-detalhe</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true" color="light">
+<ion-card *ngIf="ator">
+    <ion-card-header>
+      <img *ngIf="ator.foto" src="{{ator.foto}}" alt="img"/>
+      <ion-icon *ngIf="!ator.foto" name="videocam-off"></ion-icon>
+    </ion-card-header>
+    <ion-card-content>
+      <h1>{{ator.nome}}</h1>
+      <p>Idade: {{ator.idade}} </p>
+      <label>Nota: </label>
+        <ion-chip [color]="ator.nota < 5 ? 'danger' : ((ator.nota < 7 ? 'warning' : 'success'))" outline>
+          <ion-label>{{ator.nota}}</ion-label>
+        </ion-chip>
+
+    </ion-card-content>
+  </ion-card>
+</ion-content>
